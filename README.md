@@ -1,9 +1,9 @@
 # movie_app
 
-A new Flutter project.
+A Simple Flutter project. 
+Shows some details about the characters of BreakingBad series
 
 ## Usage libraries  
-
 - Bloc
 - Dio
 - Animated-Text
