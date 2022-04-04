@@ -9,6 +9,8 @@ Shows some details about the characters of BreakingBad series
 - Animated-Text
 - Flutter Offline
 
+https://user-images.githubusercontent.com/74645031/161457521-ced6ee5d-e873-4eba-9494-ba532ad21f4e.mp4
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
